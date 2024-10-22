@@ -7,7 +7,7 @@ for test_case in range(1, T + 1):
     cnt = 0
     m = list(map(list, zip(*n)))
     for i in n+m:
-        if len(set(i).difference(num))==0 and len(num.difference(set(i)))==0:
+        if len(set(i).intersection(num))==9:
             pass
         else:
             cnt += 1
@@ -16,7 +16,7 @@ for test_case in range(1, T + 1):
         for j in range(9):
             if i%3==0 and j%3==0:
                 x = n[i][j:j+3] + n[i+1][j:j+3] + n[i+2][j:j+3]
-                if len(set(x).difference(num)) == 0 and len(num.difference(set(x))) == 0:
+                if len(set(x).intersection(num))==9:
                     pass
                 else:
                     cnt += 1
