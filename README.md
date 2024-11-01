@@ -1,2 +1,8 @@
-# Coding
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# CodingTest 문제 풀이 저장소
+
+이 저장소는 다양한 코딩 테스트 문제 풀이를 모아둔 공간으로, **백준허브**를 통해 자동으로 정리되고 저장됩니다. 주로 백준, 프로그래머스, SWEA 등 플랫폼에서 해결한 문제들이 기록되어 있으며, 풀이 과정을 추적하고 복습하고 있습니다.
+
+## 소개
+이 저장소는 **백준허브**를 이용해 온라인 코딩 플랫폼에서 푼 문제들을 자동으로 GitHub에 업로드합니다. 코딩 테스트 학습을 위한 개인 아카이브로, 학습 진행 상황을 추적합니다.
+
+---
